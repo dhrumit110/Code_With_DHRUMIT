@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dhrumit110/Code_With_DHRUMIT/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/dhrumit110/Code_With_DHRUMIT/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/dhrumit110/Code_With_DHRUMIT/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,32 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/dhrumit110/Code_With_DHRUMIT/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhrumit110/Code_With_DHRUMIT/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhrumit110/Code_With_DHRUMIT/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhrumit110/Code_With_DHRUMIT/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhrumit110/Code_With_DHRUMIT/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhrumit110/Code_With_DHRUMIT/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhrumit110/Code_With_DHRUMIT/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/dhrumit110/Code_With_DHRUMIT/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
